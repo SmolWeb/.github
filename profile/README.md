@@ -5,3 +5,11 @@ SmolWeb is an approach to the use of the web driven by the desire to avoid destr
 As opposed to the protocol-driven approach to build 'an alternative web' (e.g. fediverse, i2p, gopher, yggdrasil), SmolWeb does not require end users to use any particular software or protocols. Instead, SmolWeb encourages the use of *conventions*, such as standardized URLs and semantically-loaded keywords within the content, that are recognized by special-purpose web crawlers that enable connectivity.
 
 Another aspect of SmolWeb is decentralization - but again, it stems not from the use of specialized protocols, but from the very nature of the web - being able to put up content publicly, for it to be crawled and processed to bring social value.
+
+# Current status
+
+The idea above has been living in my head for quite a while.
+
+I've tried to bring it to life by building a parser for nownownow.com pages that turns them into a twitter-like feed, but I failed to properly implement it because of the need to maintain parsing heuristics by hand. See my writeup [here](https://x.com/klntsky/status/1849723707238867122).
+
+Eventually I may be able to get back to it using a different method. DM me if you have any ideas.
